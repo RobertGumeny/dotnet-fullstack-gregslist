@@ -1,7 +1,12 @@
 -- CREATE TABLE cars(
 --  id INT NOT NULL AUTO_INCREMENT,
+--  userId VARCHAR(255) NOT NULL,
 --  make VARCHAR(255) NOT NULL,
 --  model VARCHAR(255) NOT NULL,
---  userId VARCHAR(255) NOT NULL 
+--  price INT NOT NULL,
+--  year INT NOT NULL,
+--  description VARCHAR(255) NOT NULL,
+--  imgUrl VARCHAR(255) NOT NULL,
 --  PRIMARY KEY (id) 
 -- )
+
